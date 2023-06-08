@@ -1,4 +1,9 @@
-### Hi there 👋 I am Ninad, a 3rd Year Computer Engineering student
+### Hi there 👋 I am Ninad
+- 🔭 I’m currently studying Computer Engineering in McMaster University
+- - 🔭 I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
+- 👯 I’m currently seeking co-op opportunities for Fall 2023
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/Welcome to My Github Profile=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 
 <!--
