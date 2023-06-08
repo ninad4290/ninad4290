@@ -4,7 +4,7 @@
 - 👯 I’m currently seeking co-op opportunities for Fall 2023
 - 📫 How to reach me: https://www.linkedin.com/in/ninad-thakker-268802226/
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/Welcome to My Github Profile=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 
 
 <!--
