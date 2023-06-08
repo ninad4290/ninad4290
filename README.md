@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Ninad
-- 🌱  I’m currently studying Computer Engineering in McMaster University
-- 🔭 I’m currently working on ... I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
+- 🌱 I’m currently studying Computer Engineering in McMaster University
+- 🔭 I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
 - 👯 I’m currently seeking co-op opportunities for Fall 2023
 - 📫 How to reach me: https://www.linkedin.com/in/ninad-thakker-268802226/
 
