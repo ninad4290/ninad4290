@@ -1,9 +1,9 @@
 ###                      Hi there 👋 I am Ninad
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
-- 🌱 I’m currently studying Computer Engineering in McMaster University
-- 🔭 I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
-- 👯 I’m looking for co-op opportunities for Fall 2023
-- 📫 How to reach me: https://www.linkedin.com/in/ninad-thakker-268802226/
+-💻 I’m currently studying Computer Engineering in McMaster University
+-⚡ I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
+-👯 I’m looking for co-op opportunities for Fall 2023
+-📫 How to reach me: https://www.linkedin.com/in/ninad-thakker-268802226/
 
 
 
