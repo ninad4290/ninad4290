@@ -5,9 +5,7 @@
 - 💬 Interested in learning Javascript, CSS and HTML
 - ⚡ I’m currently working as a Electrical Engineering Intern at Rugged Monitoring
 - 💡 I’m looking for co-op opportunities for Fall 2023
-- 📫 How to reach me: 
--  [Linkedin](https://www.linkedin.com/in/ninad-thakker-268802226/)
--  [Instagram](https://www.instagram.com/ninad4290)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ninad-thakker-268802226/)
 
 
 
