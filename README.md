@@ -2,7 +2,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
-- 💬 Interested in learning Javascript, CSS and HTML
+- 💬 Interested in learning Javascript and CSS
 - 💡 I’m looking for co-op opportunities for Fall 2023
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ninad-thakker-268802226/) , Email : ninadthakker@gmail.com
 
