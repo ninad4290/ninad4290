@@ -2,7 +2,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
-- 💬 Interested in learning React js and machine learning using numpy
+- 💬 Interested in learning React js and machine learning using NumPy
 - 💡 I’m looking for co-op opportunities for Fall 2023
 - 🍎 [My Personal Portfolio](https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a)
 - 📫 How to reach me:
