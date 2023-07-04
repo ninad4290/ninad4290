@@ -6,6 +6,7 @@
 - 💡 I’m looking for co-op opportunities for Fall 2023
 - 🍎 [My Personal Portfolio](https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a)
 - 📫 How to reach me:
+  
  <a href = "https://www.linkedin.com/in/ninad-thakker-268802226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
