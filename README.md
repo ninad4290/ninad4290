@@ -6,7 +6,7 @@
 - 💡 I’m looking for co-op opportunities for Fall 2023
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/ninad-thakker-268802226/) , Email : ninadthakker@gmail.com
 - 🍎 [My Personal Portfolio](https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a)
-- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 
 
