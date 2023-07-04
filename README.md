@@ -2,7 +2,7 @@
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
-- 💬 Interested in learning React js and machine learning using NumPy
+- 💬 Interested in learning React js and ML using NumPy
 - 💡 I’m looking for co-op opportunities for Fall 2023
 - 📫 My Links:
   
