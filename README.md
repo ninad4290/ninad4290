@@ -11,7 +11,9 @@
 <a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2> Skills</h2>
-
+<h3>Languages</h3>
+<h3>Softwares</h3>
+<h3>Hardwares</h3>
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
