@@ -11,7 +11,7 @@
 
  <a href = "https://www.linkedin.com/in/ninad-thakker-268802226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
  <a href = "mailto:ninadthakker@gmail.com"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/My Engineering Projects-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/MyEngineeringProjects-000000?style=for-the-badge&logo=notion&logoColor=white" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🛠 Skills</h2>
 <h3>Languages:</h3>
