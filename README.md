@@ -23,9 +23,9 @@
 </p>
 
 <h3>IDE</h3>
-<img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) 
+
+[![My Skills](https://skillicons.dev/icons?i=,eclipse)](https://www.eclipse.org/ide/)|[![My Skills](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev) 
 
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
