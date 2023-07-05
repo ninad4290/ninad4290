@@ -5,9 +5,8 @@
    
 
 ### 
-<p align="right">
-<h1 class="center">Hi 👋 there, I am Ninad</h1>
-</p>
+
+<h1 align ="center">Hi 👋 there, I am Ninad</h1>
 
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
