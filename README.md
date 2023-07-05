@@ -1,6 +1,8 @@
 
 
-<img src="https://github.com/ninad4290/ninad4290/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2" alt="Image description" width="3000" height= "300">
+<img src="https://github.com/ninad4290/ninad4290/assets/112971644/51416006-ebbf-4390-9429-0180d5fd81f7">
+
+
 
 ###                      <h1>Hi there 👋 I am Ninad</h1>
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
