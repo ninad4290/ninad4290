@@ -25,8 +25,6 @@
 <h3>IDE</h3>
 <img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
 <h3>Hardwares</h3>
-<a href = "https://www.raspberrypi.org/"/>
-<img src="https://skillicons.dev/icons?i=,raspberrypi"/>
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) |
 | --- | --- |
 | [https://skillicons.dev/icons?i=js,html,css,wasm](https://www.google.com/) | [https://skillicons.dev/icons?i=js,html,css,wasm](https://www.electronics-lab.com/project/9-vdc-regulated-power-supply/9-vdc-power-supply-pcb_silk/) |
