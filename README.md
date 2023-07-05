@@ -22,6 +22,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 
+<h3>Hardwares:</h3>
+[![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/) 
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
