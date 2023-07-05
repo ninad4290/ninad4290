@@ -20,7 +20,7 @@
 💬 I am interested in learning React js and ML using NumPy.
 <br>
 <br>
-💡 I’m looking for co-op opportunities for Fall 2023 and engineering internships. 
+💡 I’m looking for co-op opportunities and engineering internships for Fall 2023. 
 <br>
 <br>
 <br>
