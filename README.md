@@ -16,7 +16,7 @@
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=,c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/) 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/) 
      
      
    
@@ -25,7 +25,7 @@
 
 <h3>IDE</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=,eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
