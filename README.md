@@ -15,8 +15,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
-      <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
+      <img src="https://skillicons.dev/icons?i=,r" />
+      <img src="https://skillicons.dev/icons?i=,cpp," />
       <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
       <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
   </a>
