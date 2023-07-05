@@ -16,7 +16,7 @@
 
 <br>
 
-<p align = "center">
+
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
 <br>
@@ -29,7 +29,7 @@
 💡 I’m looking for co-op opportunities for Fall 2023
 <br>
 <br>
-</p>
+
 
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
