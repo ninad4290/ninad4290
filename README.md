@@ -17,7 +17,7 @@
 <h3>Languages</h3>
       <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
       <a href = "https://www.raspberrypi.org/"/>
-      <a href = "https://www.google.com/"/>
+     
    
   </a>
 </p>
