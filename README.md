@@ -10,7 +10,7 @@
 
 <p align = "center"
    
-&nbsp&nbsp [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
    
 </p>
    
