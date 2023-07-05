@@ -27,10 +27,8 @@
 💡 I’m looking for co-op opportunities for Fall 2023 and engineering internships. 
 <br>
 <br>
-
-
-
---  
+<br>
+  
   <h2>📫 My Links:</h3>
 
 <a href = "https://www.linkedin.com/in/ninad-thakker-268802226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
