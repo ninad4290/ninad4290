@@ -21,7 +21,7 @@
 </p>
 
 <h3>Softwares</h3>
-<img src="https://skillicons.dev/icons?i=,keil,cpp,c,python,html,verilog" />
+<img src="https://skillicons.dev/icons?i=,inventor" />
 <h3>Hardwares</h3>
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
