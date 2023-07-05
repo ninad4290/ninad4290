@@ -15,6 +15,11 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
 
 <h3>Softwares</h3>
 <h3>Hardwares</h3>
