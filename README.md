@@ -5,13 +5,10 @@
    
 
 ### 
-<p align="center">
+<p align="right">
 <h1 class="center">Hi 👋 there, I am Ninad</h1>
 </p>
 
-<p align="center">
-  <h1>Your Heading</h1>
-</p>
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
