@@ -1,6 +1,6 @@
 
 ###
-<img src="https://github.com/ninad4290/ninad4290/assets/112971644/fa0ffc14-57da-4f1a-8587-693b3d1c44c0" >
+<img src="https://github.com/ninad4290/ninad4290/assets/112971644/37268ac4-45b3-4555-88c1-746676156275" >
 
 <h1 align ="center">Hi 👋 there, I am Ninad</h1>
 
