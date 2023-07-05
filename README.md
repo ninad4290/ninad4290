@@ -26,7 +26,7 @@
 <img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
 
 | [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev) | [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev) |
-| --- | --- |
+
 | [JavaScript, HTML, CSS, WebAssembly](https://skillicons.dev) | [Java, Kotlin, Node.js, Figma](https://skillicons.dev) |
 
 <!--
