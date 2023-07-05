@@ -25,7 +25,7 @@
 <h3>IDE</h3>
 <img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
 
-[![My Skills](https://skillicons.dev/icons?i=,eclipse)](https://www.eclipse.org/ide/) [![My Skills](https://skillicons.dev/icons?i=,vscode)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=,eclipse)](https://www.eclipse.org/ide/)|[![My Skills](https://skillicons.dev/icons?i=,vscode)](https://skillicons.dev) 
 
 | [JavaScript, HTML, CSS, WebAssembly](https://skillicons.dev) [Java, Kotlin, Node.js, Figma](https://skillicons.dev) 
 
