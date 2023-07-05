@@ -1,6 +1,6 @@
 
 
-<img src="https://github.com/ninad4290/ninad4290/assets/112971644/51416006-ebbf-4390-9429-0180d5fd81f7" height = "300">
+<img src="https://github.com/ninad4290/ninad4290/assets/112971644/51416006-ebbf-4390-9429-0180d5fd81f7" height = "500">
 
    
 
