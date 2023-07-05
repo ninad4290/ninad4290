@@ -14,6 +14,7 @@
    
 </p>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------   
+
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
 - 💬 Interested in learning React js and ML using NumPy
