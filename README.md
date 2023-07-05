@@ -19,11 +19,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
      
      
-   
-  </a>
-</p>
 
-<h3>IDE</h3>
+
+<h3>IDE:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 
