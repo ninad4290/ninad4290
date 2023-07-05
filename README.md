@@ -16,7 +16,7 @@
 <h2>🛠 Skills</h2>
 <h3>Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/) 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/)
      
      
    
