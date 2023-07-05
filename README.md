@@ -1,5 +1,6 @@
 
-![photo-1507992781348-310259076fe0](https://github.com/ninad4290/ninad4290/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2){:height="300px"}
+<img src="https://github.com/ninad4290/ninad4290/raw/main/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2.jpg" alt="Image description" width="300">
+
 
 
 
