@@ -14,14 +14,13 @@
    
 </p>
 
-<p align = "center"
+
    
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
 - 💬 Interested in learning React js and ML using NumPy
 - 💡 I’m looking for co-op opportunities for Fall 2023
   
-</p>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   
   <h2>📫 My Links:</h3>
