@@ -12,7 +12,7 @@
    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)
    
-</p>
+</p align = "center"
 
 
 - 💻 I’m currently studying Computer Engineering in McMaster University
