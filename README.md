@@ -1,3 +1,7 @@
+
+
+![photo-1560653764-c59462f913d3](https://github.com/ninad4290/ninad4290/assets/112971644/e9cd9508-a06a-4a97-9b5c-2c4c796a19b9)
+
 ###                      <h1>Hi there 👋 I am Ninad</h1>
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
