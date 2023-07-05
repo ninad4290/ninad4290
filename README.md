@@ -1,5 +1,6 @@
 
-![photo-1550751827-4bd374c3f58b](https://github.com/ninad4290/ninad4290/assets/112971644/003a4b31-e21c-44ca-8dfe-968413aae837)
+![photo-1507992781348-310259076fe0](https://github.com/ninad4290/ninad4290/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2)
+
 
 
 
