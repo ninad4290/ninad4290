@@ -24,7 +24,7 @@
 <img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
 <h3>Hardwares</h3>
 <p align ="left>
-<img src="https://skillicons.dev/icons?i=raspberrypi"/>
+<img src="https://skillicons.dev/icons?i=,raspberrypi"/>
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
