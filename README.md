@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<h3>Softwares</h3>
+<h3>IDE</h3>
 <img src="https://skillicons.dev/icons?i=," />
 <h3>Hardwares</h3>
 <!--
