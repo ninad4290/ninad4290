@@ -16,12 +16,12 @@
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
 <p align="left">
-      <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,verilog" />
+      <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
   </a>
 </p>
 
 <h3>Softwares</h3>
-<img src="https://skillicons.dev/icons?i=,autodesk" />
+<img src="https://skillicons.dev/icons?i=," />
 <h3>Hardwares</h3>
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
