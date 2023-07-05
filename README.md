@@ -1,5 +1,5 @@
 
-<img src="https://github.com/ninad4290/ninad4290/raw/main/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2.jpg" alt="Image description" width="300">
+<img src=""C:\Users\Ninad\Downloads\photo-1550751827-4bd374c3f58b.jpeg"" alt="Image description" width="300">
 
 
 
