@@ -14,7 +14,9 @@
    
 </p>
 
-
+<br>
+<br>
+<br>
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
 <br>
