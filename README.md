@@ -23,7 +23,7 @@
 🤔 I’m looking for help with web development 
 <br>
 <br>
-💬 Interested in learning React js and ML using NumPy
+💬 I am interested in learning React js and ML using NumPy.
 <br>
 <br>
 💡 I’m looking for co-op opportunities for Fall 2023
