@@ -27,6 +27,8 @@
 <h3>Hardwares</h3>
 <a href = "https://www.raspberrypi.org/"/>
 <img src="https://skillicons.dev/icons?i=,raspberrypi"/>
+
+   [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
