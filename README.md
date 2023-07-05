@@ -1,6 +1,6 @@
 
 
-![photo-1507992781348-310259076fe0](https://github.com/ninad4290/ninad4290/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2)
+<img src="https://github.com/ninad4290/ninad4290/assets/112971644/1d2dad34-9220-4a46-ba44-1b61e2c60bc2" alt="Image description" width="300">
 
 ###                      <h1>Hi there 👋 I am Ninad</h1>
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
