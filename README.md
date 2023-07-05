@@ -14,12 +14,12 @@
    
 </p>
 
-<ul>
+<ol>
 <li>💻 I’m currently studying Computer Engineering in McMaster University
 <li>🤔 I’m looking for help with web development 
 <li>💬 Interested in learning React js and ML using NumPy
 <li>💡 I’m looking for co-op opportunities for Fall 2023
-</ul>
+</ol>
 
   
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
