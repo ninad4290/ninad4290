@@ -6,7 +6,7 @@
 
 ### 
 <p align="center">
-<h1 class="center-heading">Hi 👋 there, I am Ninad</h1>
+<h1 class="center">Hi 👋 there, I am Ninad</h1>
 </p>
 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
