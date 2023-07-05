@@ -21,6 +21,7 @@
 
 <h3>IDE</h3>
 <img src="https://skillicons.dev/icons?i=,eclipse,vscode" />
+<img src="https://skillicons.dev/icons?i=vscode" />
 <h3>Hardwares</h3>
 <img src="https://skillicons.dev/icons?i=,raspberrypi"/>
 <!--
