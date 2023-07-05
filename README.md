@@ -12,7 +12,7 @@
    
 <[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
    
-</p>
+</p
    
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
