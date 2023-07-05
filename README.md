@@ -3,8 +3,10 @@
 <img src="https://github.com/ninad4290/ninad4290/assets/112971644/51416006-ebbf-4390-9429-0180d5fd81f7">
 
 
-
-###                      <h1>Hi there 👋 I am Ninad</h1>
+<p align="center">
+    <h1>Hi there 👋 I am Ninad</h1>
+</p>
+### 
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
