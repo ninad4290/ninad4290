@@ -8,7 +8,7 @@
 
 <h1 align ="center">Hi 👋 there, I am Ninad</h1>
 
-<p align = "center>
+<p align = "center">
    
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 </p>
