@@ -8,8 +8,11 @@
 
 <h1 align ="center">Hi 👋 there, I am Ninad</h1>
 
-
+<p align = "center>
+   
    [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
+</p>
+   
 - 💻 I’m currently studying Computer Engineering in McMaster University
 - 🤔 I’m looking for help with web development
 - 💬 Interested in learning React js and ML using NumPy
