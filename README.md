@@ -16,7 +16,7 @@
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
 <p align="center">
-      <img src="https://skillicons.dev/icons?i=git,r,cpp,c,python" />
+      <img src="https://skillicons.dev/icons?i=,r,cpp,c,python" />
   </a>
 </p>
 
