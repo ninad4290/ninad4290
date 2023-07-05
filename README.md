@@ -20,13 +20,13 @@
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
 <br>
-🤔 I’m looking for help with web development 
+🤔 I’m looking for help with web development, front end and back end 
 <br>
 <br>
 💬 I am interested in learning React js and ML using NumPy.
 <br>
 <br>
-💡 I’m looking for co-op opportunities for Fall 2023
+💡 I’m looking for co-op opportunities for Fall 2023 and engineering internships. 
 <br>
 <br>
 
