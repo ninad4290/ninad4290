@@ -15,7 +15,8 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <h2>🛠 Skills</h2>
 <h3>Languages</h3>
-   <img src="https://skillicons.dev/icons?i=,r,cpp,c,python,html,matlab" />
+
+[![My Skills](https://skillicons.dev/icons?i=,c)]([https://www.eclipse.org/ide/](https://www.cprogramming.com/))  [![My Skills](https://skillicons.dev/icons?i=cpp)]([https://code.visualstudio.com/](https://www.cprogramming.com/)) 
      
      
    
@@ -23,7 +24,6 @@
 </p>
 
 <h3>IDE</h3>
-
 
 [![My Skills](https://skillicons.dev/icons?i=,eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 
