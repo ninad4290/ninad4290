@@ -1,8 +1,9 @@
 
 ###
-<img src="https://github.com/ninad4290/ninad4290/assets/112971644/37268ac4-45b3-4555-88c1-746676156275" >
+<img src="https://github.com/ninad4290/ninad4290/assets/112971644/0ae8e9e0-d290-4f00-b876-308e28485e6c" >
 
 <h1 align ="center">Hi 👋 there, I am Ninad</h1>
+
 
 <p align = "center"
    
