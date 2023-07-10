@@ -38,7 +38,7 @@
 <h2>🛠 Skills</h2>
 <h3>Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=sql)](https://www.mysql.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html) [![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/) [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html) [![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/) [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)
 
 
 
