@@ -50,7 +50,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/) 
 
-
+<br>
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad4290&hide_progress=true&theme=tokyonight)
 <!--
 **ninad4290/ninad4290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
