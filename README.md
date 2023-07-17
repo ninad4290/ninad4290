@@ -18,7 +18,7 @@
 🤔 I’m looking for help with web development, front end and back end 
 <br>
 
-💬 I am interested in learning React js and Machine Learning using NumPy.
+💬 I am interested in learning React js and Machine Learning.
 <br>
 
 💡 I’m looking for co-op opportunities and engineering internships for Fall 2023. 
