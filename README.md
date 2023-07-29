@@ -15,7 +15,7 @@
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
 
-🤔 I’m looking for help with web development, front end and back end 
+🤔 I’m looking for help with  back end web development] 
 <br>
 
 💬 I am interested in learning React js and Machine Learning.
