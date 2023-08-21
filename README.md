@@ -12,32 +12,31 @@
 </p>
 
 ---
-<table align = "center">
-  <tr>
-    <td width="20"></td> <!-- Empty cell for left margin -->
-    <td align="left">
-      <p>💻 I’m currently studying Computer Engineering in McMaster University</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="20"></td> <!-- Empty cell for left margin -->
-    <td align="left">
-      <p>🤔 I’m looking for help with back end web development</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="20"></td> <!-- Empty cell for left margin -->
-    <td align="left">
-      <p>💬 I am interested in learning React js and Machine Learning.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="20"></td> <!-- Empty cell for left margin -->
-    <td align="left">
-      <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
-    </td>
-  </tr>
-</table>
+<div style="margin-left: 20px;">
+  <div align="center">
+    <p>💻 I’m currently studying Computer Engineering in McMaster University</p>
+  </div>
+</div>
+
+<div style="margin-left: 20px;">
+  <div align="center">
+    <p>🤔 I’m looking for help with back end web development</p>
+  </div>
+</div>
+
+<div style="margin-left: 20px;">
+  <div align="center">
+    <p>💬 I am interested in learning React js and Machine Learning.</p>
+  </div>
+</div>
+
+<div style="margin-left: 20px;">
+  <div align="center">
+    <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
+  </div>
+</div>
+
+  
 <br>
 <br>
 <br>
