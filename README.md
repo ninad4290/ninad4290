@@ -31,7 +31,7 @@
 <br>
 <br>
 <br>
-  
+
   <h2 align = "center">📫 My Links:</h3>
 <p align = "center"
    
@@ -39,6 +39,7 @@
 <a href = "mailto:ninadthakker@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<br>
 <br>
 <h2 align = "center">🛠 Skills</h2>
 <p align = "center"
