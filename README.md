@@ -12,22 +12,32 @@
 </p>
 
 ---
-<p align = "center"
-   
-💻 I’m currently studying Computer Engineering in McMaster University
-<br>
-<p align = "center"
-   
-🤔 I’m looking for help with back end web development 
-<br>
-<p align = "center"
-   
-💬 I am interested in learning React js and Machine Learning.
-<br>
-<p align = "center"
-   
-💡 I’m looking for co-op opportunities and engineering internships for Fall 2023. 
-</p>
+<table align="center">
+  <tr>
+    <td width="20"></td> <!-- Empty cell for left margin -->
+    <td align="left">
+      <p>💻 I’m currently studying Computer Engineering in McMaster University</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20"></td> <!-- Empty cell for left margin -->
+    <td align="left">
+      <p>🤔 I’m looking for help with back end web development</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20"></td> <!-- Empty cell for left margin -->
+    <td align="left">
+      <p>💬 I am interested in learning React js and Machine Learning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="20"></td> <!-- Empty cell for left margin -->
+    <td align="left">
+      <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
+    </td>
+  </tr>
+</table>
 <br>
 <br>
 <br>
