@@ -16,13 +16,16 @@
    
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
-
+<p align = "center"
+   
 🤔 I’m looking for help with back end web development 
 <br>
-
+<p align = "center"
+   
 💬 I am interested in learning React js and Machine Learning.
 <br>
-
+<p align = "center"
+   
 💡 I’m looking for co-op opportunities and engineering internships for Fall 2023. 
 </p>
 <br>
