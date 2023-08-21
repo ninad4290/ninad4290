@@ -50,8 +50,7 @@
 
 <p align = "center"
    
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
 </p>
 <br>
