@@ -18,7 +18,7 @@
   </div>
 </div>
 
-<div style="margin-left: 20px;">
+<div style="margin-left: 80px;">
   <div align="center">
     <p>🤔 I’m looking for help with back end web development</p>
   </div>
