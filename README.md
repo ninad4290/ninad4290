@@ -46,7 +46,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
-
+[![My Skills](https://skillicons.dev/icons?i=node)](https://www.gnu.org/software/bash/)
 
 
 <br>
