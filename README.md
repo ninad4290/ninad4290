@@ -12,7 +12,7 @@
 </p>
 
 ---
-<table align="center">
+
   <tr>
     <td width="20"></td> <!-- Empty cell for left margin -->
     <td align="left">
@@ -37,7 +37,7 @@
       <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
     </td>
   </tr>
-</table>
+
 <br>
 <br>
 <br>
