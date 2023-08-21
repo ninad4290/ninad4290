@@ -12,28 +12,17 @@
 </p>
 
 ---
-<div style="margin-left: 20px;">
-  <div align="center">
+=
     <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;💻 I’m currently studying Computer Engineering in McMaster University</p>
-  </div>
-</div>
-<div style="margin-left: 20px;">
-  <div align="center">
-    <p>🤔 I’m looking for help with back end web development</p>
-  </div>
-</div>
 
-<div style="margin-left: 20px;">
-  <div align="center">
-    <p>💬 I am interested in learning React js and Machine Learning.</p>
-  </div>
-</div>
+  <p>🤔 I’m looking for help with back end web development</p>
 
-<div style="margin-left: 20px;">
-  <div align="center">
-    <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
-  </div>
-</div>
+
+
+   <p>💬 I am interested in learning React js and Machine Learning.</p>
+
+   <p>💡 I’m looking for co-op opportunities and engineering internships for Fall 2023.</p>
+
 
   
 <br>
