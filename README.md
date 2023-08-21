@@ -17,7 +17,9 @@
     <p>💻 I’m currently studying Computer Engineering in McMaster University</p>
   </div>
 </div>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🤔 I’m looking for help with back end web development</p>
+<div style="margin-left: 20px;">
+  <div align="center">
+    <p>🤔 I’m looking for help with back end web development</p>
   </div>
 </div>
 
