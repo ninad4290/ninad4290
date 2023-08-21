@@ -38,13 +38,12 @@
    
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/) [![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) [![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/) [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html) [![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) 
 
-
-
-
+<p align = "center"
+   
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/) 
 
-<h3>Other:</h3>
-
+<p align = "center"
+   
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
 [![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/) [![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
