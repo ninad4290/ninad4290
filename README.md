@@ -16,7 +16,7 @@
    
 💻 I’m currently studying Computer Engineering in McMaster University
 <br>
-<p align = "center">
+<p align = "center"
    
 🤔 I’m looking for help with back end web development 
 <br>
