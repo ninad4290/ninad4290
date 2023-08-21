@@ -41,7 +41,7 @@
 <h2 align = "center">🛠 Skills</h2>
 <p align = "center"
    
-[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/) [![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) 
+[![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)     [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)     [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/) [![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) 
 
 <p align = "center"
    
