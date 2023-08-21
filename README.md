@@ -42,10 +42,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)  [![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/) 
 
-<h3>Framework, Tools and IDE:</h3>
+<h3>Other:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)  [![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/) 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio)](https://visualstudio.microsoft.com/)[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 
 
