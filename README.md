@@ -45,7 +45,7 @@
 
 <p align = "center"
    
-[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)[![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) 
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) 
 
 
 <p align = "center"
