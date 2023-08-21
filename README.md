@@ -32,7 +32,7 @@
 <br>
 <br>
   
-  <h2>📫 My Links:</h3>
+  <h2 align = "center">📫 My Links:</h3>
 
 <a href = "https://www.linkedin.com/in/ninad-thakker-268802226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href = "mailto:ninadthakker@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
