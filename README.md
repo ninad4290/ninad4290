@@ -50,7 +50,7 @@
 
 <p align = "center"
    
-[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://ubuntu.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
 </p>
 <br>
