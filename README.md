@@ -40,7 +40,7 @@
 <a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" />
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
-<h2>🛠 Skills</h2>
+<h2 align = "center">🛠 Skills</h2>
 <p align = "center"
    
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)  [![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)  [![My Skills](https://skillicons.dev/icons?i=r)](https://www.r-project.org/) [![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) [![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/) [![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/) [![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html) [![My Skills](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/) 
