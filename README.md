@@ -32,7 +32,7 @@
    
 <a href = "https://www.linkedin.com/in/ninadthakker"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a href = "mailto:ninadthakker@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+<a href = "https://www.notion.so/Hi-I-m-Ninad-Thakker-64af0221695a476eb6cff50913978f3a"><img src="https://img.shields.io/badge/Personal_Portfolio-000000?style=for-the-badge&logo=me&logoColor=white"/>
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
