@@ -7,7 +7,7 @@
 
 <p align = "center"
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student)
    
 </p>
 
