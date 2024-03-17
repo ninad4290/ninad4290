@@ -1,7 +1,7 @@
 
 ###
 
-<h1 align ="center">Hi 👋 there, I am Ninad</h1>
+<h1>Hi 👋 there, I am Ninad</h1>
 
 
 
