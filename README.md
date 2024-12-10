@@ -26,8 +26,8 @@
 <br>
 <br>
 
-<h2 align = "center">📫 My Links:</h3>
-<p align = "center"><a href = "https://www.linkedin.com/in/ninadthakker/"><img src = "https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<h2 align = "left">📫 My Links:</h3>
+<p align = "left"><a href = "https://www.linkedin.com/in/ninadthakker/"><img src = "https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href = "mailto:ninadthakker@gmail.com"><img src= "https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://ninad4290.github.io/"><img src="https://img.shields.io/badge/Personal_Website-000000?style=for-the-badge&logo=me&logoColor=white"/>
 </p>
@@ -35,17 +35,17 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 <br>
-<h2 align = "center">🛠 Skills</h2>
-<p align = "center"
+<h2 align = "left">🛠 Skills</h2>
+<p align = "left"
    
 [![My Skills](https://skillicons.dev/icons?i=c)](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=cpp)](https://www.cprogramming.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=py)](https://www.python.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=ros)](https://www.ros.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=matlab)](https://www.mathworks.com/products/matlab.html) 
 
-<p align = "center"
+<p align = "left"
    
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=raspberrypi)](https://www.raspberrypi.org/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=html)](https://html.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=js)](https://www.javascript.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=css)](https://www.w3.org/Style/CSS/Overview.en.html)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=java)](https://www.java.com/en/) 
 
 
-<p align = "center"
+<p align = "left"
    
 [![My Skills](https://skillicons.dev/icons?i=eclipse)](https://www.eclipse.org/ide/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=linux)](https://git.kernel.org/pub/scm/linux/kernel/git/torvalds/linux.git)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)&nbsp;&nbsp;&nbsp;&nbsp;[![My Skills](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
 
