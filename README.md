@@ -1,13 +1,13 @@
 
 ###
 
-<h1>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi 👋 there, I am Ninad</h1>
+<h1>Hi 👋 there, I am Ninad</h1>
 
 
 
 <p align = "center"
    
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student)
    
 </p>
 
