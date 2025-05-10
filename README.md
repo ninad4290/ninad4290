@@ -18,7 +18,7 @@
 
 
 
-<p>💬 Passionate about PC gaming, CPU/GPU design</p>
+<p>💬 Passionate about building PCs, CPU/GPU design</p>
 
 <p>🔭 Interests and experience in ASIC design and verification, computer architecture and embedded systems.</p>
   
